@@ -1,0 +1,13 @@
+The Euler method also called forward euler method is a first order numerical
+procedure for solving ordinary differential equation.(ODEs) with a given
+initial values.
+
+
+The formula for the Euler’s method is :-
+y(x+h) = y(x) + h*f(x+y)
+
+
+Here ‘h’ stands for the slope of the function at initial points.
+Using the euler’s method we can get an approximate graph for a given function.
+Using the Euler’s method plot graph of the function f(x) = e-x
+and compare it with its original graph.
